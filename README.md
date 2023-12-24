@@ -2,6 +2,7 @@ Learning the fundametals of Java including:
 - Functions, Classes & Methods
 - Data Types and their properties
 - Creating objects
+- Escape sequences
 - Arithmetic syntax
 - Casting values
 
