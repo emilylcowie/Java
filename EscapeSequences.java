@@ -10,11 +10,11 @@ public class EscapeSequences {
         String message2 = "c:\\Windows\\..."; // Use \\ to escape error with single \
         System.out.println(message2);
 
-        // \n
+        // '\n'
         String message3 = "c:\nWindows\\..."; // Creates new line
         System.out.println(message3);
 
-        // \t
+        // '\t'
         String message4 = "c:\tWindows\\..."; // Inputs a tab
         System.out.println(message4);
     }
