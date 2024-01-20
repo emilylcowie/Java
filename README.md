@@ -6,5 +6,6 @@ Learning the fundametals of Java including:
 - Arithmetic syntax
 - Casting values
 
-Following this course on YouTube, would 100% reccomend:
-https://www.youtube.com/watch?v=eIrMbAQSU34&t=32s
+Based on:
+- Introduction to java programming - Y.Daniel Liang
+- https://www.youtube.com/watch?v=eIrMbAQSU34&t=32s
