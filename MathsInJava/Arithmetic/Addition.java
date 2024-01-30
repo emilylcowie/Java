@@ -17,7 +17,7 @@ public class Addition {
         System.out.println(z); //outputs 1
 
         int a = 1;
-        int b = ++y;
+        int b = ++a;
         System.out.println(a); //outputs 2
         System.out.println(b); //outputs 2
 
