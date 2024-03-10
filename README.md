@@ -5,6 +5,7 @@ Learning the fundametals of Java including:
 - Escape sequences
 - Arithmetic syntax
 - Casting values
+- Reading input
 
 Based on:
 - Introduction to java programming - Y.Daniel Liang
