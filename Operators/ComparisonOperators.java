@@ -1,4 +1,4 @@
-package Beginner.Input;
+package Beginner.Operators;
 
 public class ComparisonOperators {
 
