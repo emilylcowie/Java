@@ -6,6 +6,8 @@ Learning the fundametals of Java including:
 - Arithmetic syntax
 - Casting values
 - Reading input
+- Iteration
+- Operators
 
 Based on:
 - Introduction to java programming - Y.Daniel Liang
